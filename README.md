@@ -77,9 +77,5 @@ This is a simple **User Management API** built using **Node.js** and **Express.j
 - Add **PUT** and **DELETE** methods for updating and removing users.
 - Implement a real database like **MongoDB** or **PostgreSQL**.
 - Add authentication with **JWT**.
-
-## License
-This project is open-source and available under the MIT License.
-
 ---
 
